@@ -10,13 +10,19 @@ Email:yxchspring0209@foxmail.com
 
 Data: May 08, 2019
 
-############################ 2. Data ########################################
+############################ 2. Data and Model ########################################
 
-Please extract the 'Willow-actions.rar' to the 'NCNN' folder.
+2.1 Please extract the 'Willow-actions.rar' to the 'NCNN' folder.
 
-We just provide the '1.5 × cropped Willow actions database' in this code.
+2.2 Please refer to the following link for the trained models including the best Model1 and the best Model2
 
-And the uncropped Willow actions database and code are available at https://www.di.ens.fr/willow/research/stillactions/.
+Link: https://pan.baidu.com/s/1lVSsmLW_wYyy13EC6DR7Sg Extraction code: 17ju
+
+Please extract the 'Results.rar' to the 'NCNN' folder.
+
+2.3 We just provide the '1.5 × cropped Willow actions database' in this code.
+
+And the original uncropped Willow actions database and code in Delaitre's Paper  are available at https://www.di.ens.fr/willow/research/stillactions/.
 
 ############################ 3. Functions ########################################
 
