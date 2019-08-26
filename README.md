@@ -14,12 +14,7 @@ Data: May 08, 2019
 
 2.1 Please extract the 'Willow-actions.rar' to the 'NCNN' folder.
 
-2.2 Please refer to the following link for the trained models including the best Model1 and the best Model2
-Link：https://pan.baidu.com/s/1cfJZh87BelgT6-snAKGXuA
-
-Extraction code：ieoo 
-
-Please extract the 'Results.rar' to the 'NCNN' folder.
+2.2 Please extract the 'Results.rar' to the 'NCNN' folder.
 
 2.3 We just provide the '1.5 × cropped Willow actions database' in this code.
 
