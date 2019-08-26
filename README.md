@@ -15,8 +15,9 @@ Data: May 08, 2019
 2.1 Please extract the 'Willow-actions.rar' to the 'NCNN' folder.
 
 2.2 Please refer to the following link for the trained models including the best Model1 and the best Model2
+Link：https://pan.baidu.com/s/1cfJZh87BelgT6-snAKGXuA
 
-Link: https://pan.baidu.com/s/1lVSsmLW_wYyy13EC6DR7Sg Extraction code: 17ju
+Extraction code：ieoo 
 
 Please extract the 'Results.rar' to the 'NCNN' folder.
 
